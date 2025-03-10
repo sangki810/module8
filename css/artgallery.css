@@ -22,12 +22,3 @@ footer {
 .left {
     text-align: left;
 }    
-.thumbnail {
-    height: 350px;
-}
-.caption h2 {
-    white-space: nowrap;
-}
-#img3, #img4 {
-    margin-top: 20px;
-}
